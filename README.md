@@ -1,7 +1,7 @@
 # Venue Classification Project 
-Image classification is essential in fields such as image search. This project aims to categorize venue imagesinto five categories using supervised decision trees, semi-supervised decision trees, and supervised and convolutional neural networks (CNNs). The classified venues are: bar, beach, restaurant, subway and bookstore.
+Image classification is essential in fields such as image search. This project aims to categorize venue images into five categories using supervised decision trees, semi-supervised decision trees, and supervised convolutional neural networks (CNNs). The classified venues are: bar, beach, restaurant, subway and bookstore.
 - Concordia University
-- COMP 6721 Applied Artificial intelligence, Summer 2024
+- COMP 6721 Applied Artificial Intelligence, Summer 2024
 - Group Name: CTYCNN 
 
 ## Group Member
